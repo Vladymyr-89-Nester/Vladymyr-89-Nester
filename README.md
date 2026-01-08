@@ -25,3 +25,20 @@
 The app allows users to create, search, paginate, and delete notes using a REST API.
 - [ArtistsHub](https://github.com/Vladymyr-89-Nester/ArtistsHub)  was created as a collaborative team project to practice modern frontend development. It demonstrates work with APIs, dynamic UI rendering, pagination, modals, notifications, and responsive design.A platform for discovering artists, browsing their works, reading details, and leaving feedback.
 
+## 📫 Contact me
+
+<p align="center">
+
+<a href="mailto:paladinsvetoi@gmail.com">
+  <img src="https://img.shields.io/badge/Google-Email-EA4335?style=for-the-badge&logo=google&logoColor=white"/>
+</a>
+
+<a href="https://t.me/yourusername">
+  <img src="https://img.shields.io/badge/Telegram-Chat-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/vladymyr-nesterenko-full-stack/">
+  <img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NFYxNC44MDNjMC0xLjM0My0uMDI3LTMuMDcyLTEuODcyLTMuMDcyLTEuODczIDAtMi4xNTkgMS40Ni0yLjE1OSAyLjk3VjIwLjQ1Mkg5LjMwNlY5aDMuNDE0djEuNTYxSDIuNzE2QzEzLjI0NyA5LjI2IDE0LjQ0NyA4IDE2LjI4MSA4YzMuODg0IDAgNC41NCAyLjU1OSA0LjU0IDUuODcydjYuNTh6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDY5LS45MjYtMi4wNjktMi4wNjkgMC0xLjE0NC45MjYtMi4wNjkgMi4wNjktMi4wNjkgMS4xNDQgMCAyLjA2OS45MjYgMi4wNjkgMi4wNjkgMCAxLjE0NC0uOTI1IDIuMDY5LTIuMDY5IDIuMDY5ek0zLjU1NiAyMC40NTJIOC4xMTJWOWgtNC41NTZ2MTEuNDUyeiIvPjwvc3ZnPg==&logoColor=white"/>
+</a>
+
+</p>
