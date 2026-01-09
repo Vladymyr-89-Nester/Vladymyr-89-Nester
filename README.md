@@ -1,8 +1,34 @@
 <div align="center">
+  
+#  <img src="https://camo.githubusercontent.com/33fa1ecbfc674cb894fee42114ce8034fc32529090afc1ef7ef03b2d45c87271/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" title="Hi" alt="Hi" width="30" height="30"/> Hi, I'm Vladymyr Nesterenko
+  
+</div>
+
+___
+
+<h2 align="center">👨‍💻 About Me</h2>
+
+<div align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2ViZTZrOHI2YjgzZHdoeXl1cWs0YXJ2czAwZ3MwajNiMXg2ZHlxcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/>
 </div>
 
 <div align="center">
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTkyNnl6ZWZldWY5cmZtd3ZwcHZwdDYzMTR2NnBuNmY0OXk4a3pqdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/n7PsZjfO6JgaUdCiTw/giphy.gif" width="40" height="40"/>
+  
+<details>
+  
+<summary><strong>Click to expand</strong></summary>
+
+<br/>
+  
+I am a Junior Full Stack Developer with a strong interest in building modern and efficient web applications.  
+My core tech stack includes **HTML5, CSS3, JavaScript, React, Next.js, Node.js**, and **Git**.  
+I focus on writing clean, maintainable code, continuously improving my skills, and turning ideas into reliable digital solutions.
+
+</details>
+
+___
   
   ## 🧰 Tech Stack
   
